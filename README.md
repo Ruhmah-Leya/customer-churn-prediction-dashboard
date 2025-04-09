@@ -10,7 +10,21 @@ This project implements a **Customer Churn Prediction** model using machine lear
 
 In a competitive market, retaining customers is vital for any business. Predicting whether a customer will churn or not helps businesses take proactive measures to improve customer satisfaction and reduce churn rates. This project applies machine learning to predict customer churn based on several factors like customer demographics, service usage, and payment details.
 
+
+## Dataset Information
+
+The dataset used in this project is the **Telco Customer Churn Dataset**. It is provided by the original authors and can be downloaded from Kaggle using the following link:
+
+- [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+**License:** Data files © Original Authors. Redistribution is prohibited without explicit permission.
+
+Please download the dataset and place it in the `data/` directory of the project to begin working with the code.
+
+
+
 ## Dataset
+
 
 The dataset used in this project contains customer information from a telecommunications company and includes the following features:
 
